@@ -13,6 +13,10 @@ open http://localhost:8888/
 
 # or for just a console
 docker run --rm -it sagemath/sagemath
+
+# for CoCalc
+docker run --rm -v $(pwd)/data:/projects -p 443:443 sagemathinc/cocalc
+open https://localhost/
 ```
 
 ## References
