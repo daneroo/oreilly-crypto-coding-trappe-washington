@@ -25,5 +25,3 @@ open https://localhost/
 - [SageMath Crypto Reference](https://doc.sagemath.org/pdf/en/reference/cryptography/cryptography.pdf)
 - [Pearson Book site (exercises and erata)](https://media.pearsoncmg.com/ph/esm/esm_trappe_crypt3e_20/trappe_crypt3e_main.html)
 - [CoCalc and Docker](https://doc.cocalc.com/docker-image.html)
-
-- Test 3
