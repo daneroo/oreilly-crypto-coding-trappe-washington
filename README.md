@@ -24,5 +24,4 @@ open https://localhost/
 - [O'Reilly - Introduction To Cryptography With Coding Theory](https://learning.oreilly.com/library/view/introduction-to-cryptography/9780136758181/)
 - [SageMath Crypto Reference](https://doc.sagemath.org/pdf/en/reference/cryptography/cryptography.pdf)
 - [Pearson Book site (exercises and erata)](https://media.pearsoncmg.com/ph/esm/esm_trappe_crypt3e_20/trappe_crypt3e_main.html)
-
 - [CoCalc and Docker](https://doc.cocalc.com/docker-image.html)
